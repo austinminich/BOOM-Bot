@@ -1,0 +1,5 @@
+1. Rework and implement all music functions
+2. Add functionallity of recording what people are in the same channel as
+    requester and writing to file
+3. Add functionallity of having a playlist that belongs to a person but can be
+    accessed by all in the same server (not channel specific)
